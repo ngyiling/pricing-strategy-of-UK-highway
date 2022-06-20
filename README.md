@@ -1,4 +1,4 @@
-# Price Optimisation and Capacity Allocation of a UK highway
+# Price Optimisation and Capacity Allocation of a UK Highway Toll
 
 This aim of this report is to carry out price optimisation and capacity allocation of Dartford Crossing, UK - one of the busiest highways M25 in England - in accordance to 3 potential objectives: maximise toll revenue, minimise emissions, or maximise throughput. 
 
