@@ -12,6 +12,7 @@ The first approach considers the addition of peak period price, from 7 to 9 am a
 <br />
 To model the first approach, the demand of each vehicle type was determined using simulated [willingness-to-pay (WTP) dataset](https://github.com/ngyiling/pricing-strategy-of-UK-highway/blob/main/dft_aadf_count_point_id_27923.csv) by linear regression, followed by non-linear programming to find the optimal peak and non-peak prices. For the second approach, the expected demand for HOT lanes among single-occupancy (SO) vehicles and multi-occupancy (MO) vehicles were calculated using the arrival probabilities, and linear programming was then used to model the HOT lane allocation of SO and MO vehicles.
 
+**Technology:** dplyr, stargazer, lattice, nloptr
 
 **Results:** 
 - Time-based pricing approach suggests that the improvements achieved would depend on the government’s objective, whether to maximise revenue, minimise emissions or maximise throughput. 
